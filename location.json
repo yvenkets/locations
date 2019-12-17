@@ -1,0 +1,5880 @@
+{
+	"stateList": [{
+			"stateName": "Uttar Pradesh",
+			"districtList": [{
+					"districtName": "AGRA",
+					"blockList": [{
+							"blockName": "ACHHNERA",
+							"panehayatList": [{
+									"panchayatName": "ABHAUDOPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "AKABARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "Anganpur",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ARDAYA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ARRUA KHAS",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ATUS",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BABROD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BASTAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "Bhandiri",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHILAWATI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BIARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BIDHAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHHAE POKHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHANOLI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "FATEHPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GADI CANDARMAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GARHIMA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GOBRA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GOPAU",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HANSELA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JANUTHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JHAROTI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KACHAURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KATHAWARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HARBAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHERA BAKANDA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHERA SADHAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KITHAM",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KUKATHALA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LOH KARERA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAHUAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MANGAROL GUJAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MANGAROLI JAT",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MANGURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MUBARIKPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MURANDA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAGAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAGLA ARUA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PANWARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PURAMANA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAIBHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAIPURA AHIR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RUNKATA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SAHAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SAKATPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SANDHAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SEHTA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SINGMA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								}
+							]
+						},
+						{
+							"blockName": "AKOLA",
+							"panehayatList": [{
+									"panchayatName": "ABHAYPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "AKHBAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "AKOLA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAGHA SONIGA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAIN KHERA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BALHERA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAMAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BARODA SADAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BASAI BOBLA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BASAIA RAIMOL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BASARAI CHAHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BASIA JOTIRAJ",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAINKORA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DAVLI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHANAULI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GAHARA KALAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GAHARA KHURD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GAMARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "IKRAM NAGAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JAIN GARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ARUA KATRA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "Jitora",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KARAHARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "Khal",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHERA BHAGOR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHERIA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LALAU",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MALPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MANIYAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MANKENDA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAGLA SIKARWAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAHCHANI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "Naraul",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PINANI RAMNAGAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "Sagunapur",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SALEMABAD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SIROLI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "UJARAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								}
+							]
+						},
+						{
+							"blockName": "BAH",
+							"panehayatList": [{
+									"panchayatName": "ABHAYPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BADOUS",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAMROLI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BARAH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BASONI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BATESHWAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHADROLI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "Bhartar",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BICHOULA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BITHOLI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAMRAUA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHANGOLI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHOUSINGI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DERAK",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DODAPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "EMANPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GONSILI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GOPAL PURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GUNGAWALI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HINGOT KHERA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ITAILI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JARAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KALINJAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KENJRA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KUNWAR KHEDA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KWAARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LAKHANPUR KHALSA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MANGADPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "Mudiyapura",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NARHOLI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "Padkoli",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PARBATIPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PHARAIRA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PHARAIRI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "Pratap Pura",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAIPURA BHADORIYA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAJPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHANDRASAINI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RUDMULI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SANNPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SIDHAOLI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SIMRAHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "Siyainch",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SUNSAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TARSON",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "VERI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "VIJOLI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "VIKARAMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ZEBARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "AKBARPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								}
+							]
+						},
+						{
+							"blockName": "BARAULI AHIR",
+							"panehayatList": [{
+									"panchayatName": "AKBARPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAGDA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAHENTA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "Bajhera",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAMRAULI KATARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BARAULI AHIR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BARAULI GUJAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHAHAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHANDAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BIJHAMAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BILAHANI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BISARNA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BISHARA KALAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BISHARI BHAND",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BUDHANA MUSTKIL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BUDHERA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAMRAULI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DEORI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DIGNER",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ETMADPUR MADRA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GANGRAUA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GHAMOTA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GUTLA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HINGOT KHERIA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "IKTHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ISLAMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ITAURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KABOOLPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KAHRAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KAKRARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KAKUA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KALAL KHERIA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KALIKA NAGLA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KARMANA MUSTKIL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KAULAKHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KUAN KHERA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KUNDOL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KUTHAWATI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LAKAVALI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LODHAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAHUA KHERA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "Mayapur",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MEHRA NAHARGANJ",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NADAUTA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAINANA JAT",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAINANA-BRAHMAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAUBARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PACHGAIN KHERA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PAWAWALI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAJRAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ROHTA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SAIMARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SALEMABAD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SAMOGAR MUSTKIL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "Sarbatpura",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SHYAMO",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TANORA NURPUR MUSTKIL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TORA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								}
+							]
+						}
+					]
+				},
+				{
+					"districtName": "ALIGARH",
+					"blockList": [{
+							"blockName": "AKRABAD",
+							"panehayatList": [{
+									"panchayatName": "AKARABAD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ALAMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "AMAMADAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAGHIYAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ADURPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAMNOI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BARA KALAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BARHAD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHADROI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHAGOSA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHATAULI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHELET RAMNAGAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHILAWALI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHIMPUR HARIPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHINOLI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BIJALPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BISTAULI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHANDPUR MIRZA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHITRAULI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DABHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DABHAURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DABHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DARIYAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHANOLI CHINAULI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHAURAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHAURI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GANGRAUL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GOBRA DEEPPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GOLARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GOPI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GUDMAI MISHRIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HASONA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JAGMOHANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JIROLI HIRA SINGH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KANAKPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KARAHLA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KASERI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KASIMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KATHAIRA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KATRA MALOI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KELAN PUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHANDWAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHERA NARAYN SINGH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHURRAMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KIRATPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LADHAUWA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MANAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MANDANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAGARIA PATTI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAHRAM",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAGLA BARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAGLA KESIA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAGLA SARTAJ",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NANAU",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NARRAU",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PARAURI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "QUTUBPUR AMARPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAIPUR MANIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAJIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SHAH GARH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SHANKER GARH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SIKANDARPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SUHAWALI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TEHARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TUAMAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "UNTASANI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "VIJAIGARH DEHAT",
+									"villageList": [{
+										"villageName": ""
+									}]
+								}
+							]
+						},
+						{
+							"blockName": "ATRAULI",
+							"panehayatList": [{
+									"panchayatName": "AHAMADPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ALAMPUR KAYASTHAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ADURPUR TABYU",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ARABAD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAIJLA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAIMBIRPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BARHAULI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHAVIGARH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHOJPUR TA LOHGARH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BIDHIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BIRNER",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAKATHAL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHALAKPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHANDAULA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SUJANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHANDAULI BUZURG",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAPAUTA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAUMUHAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAUPUR HAUJ",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DADAR ALUPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DAUD GARHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHURRA KHAS URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PREMNAGAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "FAZALPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GAHTAULI NIRMAL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GANESHPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GOVINDPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GANIYAVALI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GAON KHERA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GAZIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GIJRAULI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GOVALI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HAIBATPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HARBANSHPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "IZZATPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JAKHAIRA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JAMAL GARHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JAMANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JAMUNA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JIRAULI DHOOM",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SINGH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JUJHARKA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KADAULI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KAKETHAL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KALIYANPUR RANI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KANAKPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KASIMPUR GADAIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KAZIMABAD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHAIRABAD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHANPUR KHITAULI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHEDIA ADUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GARHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHEDIA RAFAYTPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHEDIA TA LOHGARH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHERHA KALIYANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHAGIRATHPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KIRTHALA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KORAH RAGHUPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KUNJALPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KUNVARPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LOHGARH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MADHUPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAHGAVAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MALAHPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MEER GARHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MOHSANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MUHAMADPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BADHERA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAGLA HARJI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAHAL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NARONA AKAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NATHPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAUARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ORENI DALPATPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PAHAR GARHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PANHARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ABDULLAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PANIHARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PENDRA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PILKHUNI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAIPUR DALPATPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAIPUR MUNZAPTA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAJATAU SEUPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAJMARGPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SAHNAUL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SALARPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SHEKHUPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SHERPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SIMTHALA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SINDHAULI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SURAJPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SURATGARH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TEHARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "USMANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								}
+							]
+						},
+						{
+							"blockName": "BIJAULI",
+							"panehayatList": [{
+									"panchayatName": "ALIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ATA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ONA KOTRA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BANUPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BARHAUL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BARHEPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BARHSARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BEELPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHAMAURI KHURD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHAMSOI HUSAINPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHIKANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BIJAULI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BISANPUR ANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BULAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHANDAUVA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GOVARDHANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHHAUGAWAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DADO",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DARI ALAWLPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DATA CHOLI BUZURG",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DATA CHOLI KHURD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHURRA TODARPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DINAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DUDHMA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GANESHPUR TANAH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GOPALPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HAIVATPUR KOTRA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HAMIDPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HARANPUR KALA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HARDOI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HARNOT BHOJPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HUSSAINPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SHAHJADPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KAKRALI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KALYAN NAGAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KANCHANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KASIMPUR KHUSHIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KASIMPUR NAGRI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHADAVA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHIRIRI MASTIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LAHASKI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LAHRA SALEMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MANDPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAUPUR BHAUPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MUZAFFARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAGALYIA JAHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAGLA ALIYA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NARUPURA KATKA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PALIMUKIMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PIDHAUL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAHMODPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PIPLI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PYAVALI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAIPUR KHAS",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAJGAON",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAM NAGAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAMPUR CHANDIYANA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RANMOCHNA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RASAINI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SAIFPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SANKRA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SHAMASPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SHEKHUPUR SATKUNA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SIHANI FARIDPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SINDHAULI KHURD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SINGHPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HIMMATPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SIRSA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TARAICHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TEVATHU",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TOCHHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TODAR PUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								}
+							]
+						},
+						{
+							"blockName": "CHANDAUS",
+							"panehayatList": [{
+									"panchayatName": "AMRITPUR BAKHATPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAHARPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAJHERHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAMOTI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BARKA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHIMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHOGPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHOJPUR GYANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHANDAUS",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHANDNER",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHIVANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHUHARPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DAURAU CHANDPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DETA SAIDPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DETAKHURD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHARMPUR  RAKRAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ELAMPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GABHANA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GANESHPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GANGAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GWALARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HASANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HISAIL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HURSAINA ARJUNPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "IMLAHARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JAHRANA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JAKHAUTA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JALOKHARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JAMANKA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KARANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KASERU",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHIJARPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHYAMAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KINUHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LALPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LOHPOOTH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MADHAULA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAHARAJPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MARKHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MOHRAINA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAGALA ASSOO",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAGALA SARUA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAGLA PADAM",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAVABPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NOORULLAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "OGAR NAGALA RAJOO",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "OGIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PAHAVATI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PAIRAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PANIHAVAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PISAVA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAKRANA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAM NAGAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAMPUR SHAHPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RASEEDPUR GORNA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ROOP NAGAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SABALPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SAHAJPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SHAHPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SOMNA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SUDESHPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SURAJPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TAJPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TEEKARI BHAVAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "THANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "UDAIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "UMARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "VIRPURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "VISARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								}
+							]
+						}
+					]
+				},
+				{
+					"districtName": "ALLAHABAD",
+					"blockList": [{
+							"blockName": "BAHADURPUR",
+							"panehayatList": [{
+									"panchayatName": "AMERSAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ANDAWA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BABHAN KUEYAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BADHAWA TAHIRPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAHADURPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAHADURPUR TA.IBRAHIMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TA.IBRAHIMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAJHAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BANI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BARAEPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BARIYARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHADKAR UPERHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHAGIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHOPAT PUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BIKAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BIRGAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAK HARIHARBAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAKIYA HINAUTA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAKIYADHARHARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAQ CHURAWAN TA.",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KANIHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHHATANAG UPERHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHIBAIYAN UPERHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DALAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DARIYAPUR URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GULALPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DEVKALI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DEWARIYA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHAMOEYA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHARAULI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHOKARIUPERHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DUBAWAL UPERHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DUDUHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DURJANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "FAIJJULA PUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "FIROZPUR TAL.",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "IBRAHIMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GOTAWAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HABIBPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HAVELIYA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JAG BANDHANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JAITPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JAMUNIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JHUSI KOHNA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KAITHWAL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KAKRA UPERHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KANDI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KANIHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KARANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KASERUA KHURD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KASERUAKALA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KATAKA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KATIYARI URF CHAKIYA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KATWARUPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KAUDRU",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KOTARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KOTWA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KUNADEEH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LILAPUR KALA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LILAPUR KHURD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LORHWA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAHESHPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAHRAUDA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MALAWAN BUJURG",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MALAWAN KHURD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MALKHANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MANDAUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MEDUA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MIRAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MURARPATTI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MUSTAFABAD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAIKA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NIBIKALA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PAHARPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PALIKARANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "UPERHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PATTI BAIRISHAL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "UPERHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "POORE SURADAS",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAHIMAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAMAEPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAMAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAMNAGAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAMNATHPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAMPUR URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BALRAMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RATAURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RITHAIYA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SAHSON",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI LAHUR URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LAHURPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI NURRUDDINPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI RAHIYA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI TAKI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARFUDDINPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SEMRA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SHERDEEH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SIHIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SINGRA MAU",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SONAUTI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SONI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SUDANIPUR KALA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SUDANIPUR KHURD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TENDUE",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TULAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "UMARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "USTAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAHMOODABAD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "UPERHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "WARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "YARANA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								}
+							]
+						},
+						{
+							"blockName": "BAHRIA",
+							"panehayatList": [{
+									"panchayatName": "AADAMPUR UPARAURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ABHAIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "AHIRAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ATANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BADALPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAJAHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAKSERA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BALIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BALKARANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BARAURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BARJI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BASRAHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BEERAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BERUE",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHADERPUR URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DEENAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHANE MAU",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHAREHTA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHAWANAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BUAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAIMALPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAK BHANPUR URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAKIYA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAK NURUDDIN URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAGDILPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAMARUPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHANDERPUR URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BASMAHUA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHANDRAWAT URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PUREMATADEEN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAQ AFZAL URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "POORELILA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAQ KASIRAM",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAQ SHEKHLAL URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SADHOPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAQ SYAM URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "POORE HINCHHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHATURPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHHATA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DALIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DAMODERPUR URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TIWARIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DEWAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DEWARIA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHAMAUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHARAMPUR URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHURWA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "FAJLABAD URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KALOOPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GAHARPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GAMRAHTA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GORAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HARIRAM PATTI URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KATNAE",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HASANPUR KORARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HASANPUR MAI CHAK",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MANSOOR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HASIMPUR URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BENIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HATIYA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HETAPATTI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HUSENPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JALALUDDIN URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAHPOORA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JAMHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JAMUA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JUGUNIDEEH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KAHLI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KANDIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KATIYAHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHEWRAJPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHOJAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KIRANW",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KUMHAUNA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KUSUNGUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LAKHRAWAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MADARPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MADHOPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAHULI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAILAHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MALAKA MAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHAISAHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MANSOORPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MATHURA URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PARANDEEH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MEERAKPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MULHAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MURADPUR URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHIDIRPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NEWADA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NIMI KHURD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NOORPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PAIGAMBERPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PARTAPPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PERMANANDPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PURUSOTTAMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "URF GARAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAMGARH KOTHARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAMPUR URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DOULATPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI DARASHIKOH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "URF MIJHURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI GAMBHIRDAS",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "URF BIBIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI GANI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI JODHRAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI KHANDEV",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI KHWAJA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI KHWAJA URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAGHOLA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI LAHURI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI LILADHAR URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BARCHANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI MADAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI RAIJOT",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI SULTAN URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "POORE MAKHDOOM",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI TODERMAL URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DANDUPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAIDATTE",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAIJEETRAI URF",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PURE BHAWA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARI PATTI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SATANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SIKANDRA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SISAIE SIPAH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SUPRAWARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TEJPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TIKARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TULAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "UDHOPURKHAGIYA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "YASINPUR URF KARNAYEEPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								}
+							]
+						},
+						{
+							"blockName": "CHAKA",
+							"panehayatList": [{
+									"panchayatName": "AMILIYA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ARAIL UPARHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAGBANA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BALAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BARAMAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BASWAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHANDRA UMAR GANJ",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHARAUNHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BONGI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BYOHARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAK ABHAYRAM",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAK BABURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ALIMABAD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAK GARIBDAS",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAK IMAM ALI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAK PUREMIYAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHURD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAK RANA TIWARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAKA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAMPATPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAUKATHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHHARIBANA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DABHAON",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DADARI TALUKA NAINI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DADARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DADRI TAL",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAUGAWAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DANDI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DANDUPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DEORI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DEWRAKH UPARHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHANUHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GHOGHAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GONTI TAL. PURWA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HARIHAR PUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HATHIGAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LAWAINKHURD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LAWAYAN KALAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "UPARHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MADAUKA UPARHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAHEWA PATTI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PASHCHIM UPARHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAHUWARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MASIKA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAWAIYA UPARHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MOHABATGANJ",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "UPARHAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MOHIUDDINPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MURADPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAINI TALUKA NAINI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DADARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NARSINGHPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NEWADA SAMOGAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NIBI TALUKA KHURD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PALPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PATEWARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PIPIRASA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PIPRAON",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PURA PANDEY",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PURE KHAGAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PURWA KHAS",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SANDWA KALAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARANGAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TENDUAWAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TIGNAUTA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "TILAKHWAR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "UBHARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								}
+							]
+						},
+						{
+							"blockName": "DHANUPUR",
+							"panehayatList": [{
+									"panchayatName": "AMEPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ARAV",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ARHANI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAHUPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BAKHTIYARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BALA PUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ROD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BALIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BANDI PATTI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BANPURAVA PARATIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BANPURAWA SARAIPITHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHAGAUTTIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHOOI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHOPATPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BHUSALPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BIBIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "BITHAULI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHAKIYA GIRDKOT",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "CHATUR PATTI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DAMAGARHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DANDI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DASER",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DATTEPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DEVADAHANA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DEWA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHANJAIYA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHANUPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DHOBAHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "DIGHAUTA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "FARIDPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GAHARPUR DHOBAHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GHAMAHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GHATOOPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GIRDA KOT",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "GOPALIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HAKIMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HARIPUR MISHRPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HASANPUR UTRAWAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "HIRRAMAN PATTI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "ISHWARPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JAGADISHPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JAGUA SARAIPITHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JALALPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "JARAWN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KABIRUDDEENPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KAJIPUR TA. UTRAON",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KALANA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KANGAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KARARI BHADAILI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KASAUNJHA URF PURE RAGHAI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KAURI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KESHAW RAIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KEVAI BUJURG",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHAMARIYA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHARHARA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHIJIRIHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHIJIRPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KHURAM SAHAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KIRAWN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KOET DAKSHIN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KUDANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "KUKURHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "LOKMANPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MADHOPUR SIYA DIH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAHARAJPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAHJANA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAIRADAN",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAKADUMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAMARAKHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MARRO",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MASARHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MAVAIYA HINDUYANI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MEETHUPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MIDIURA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MISHRI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MUHAMMADABAD",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "MULANAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NAIKIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "NEEMI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PAIGUWA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PARAWA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PIPRI AMAD BHADOHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PURE KANTA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PURE LUTAE",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "PURE SADA BHAMA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RAMAPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "RANIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "REHATHOO",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SANSARIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI ALAM MADARI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI BAKSA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI HOOSAY",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAI PITHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SARAY ALAM MASARHI",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SHAHARI BOJH",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SHAHI PUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SHAHPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SHANKERPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SHRIPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "SHUKULPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "THARIYA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "VAJPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "VIKRAMPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "VIRAPUR DHOWAHA",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "VITTTHALPUR URF BARAMATPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								},
+								{
+									"panchayatName": "YASINPUR",
+									"villageList": [{
+										"villageName": ""
+									}]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"stateName": "Rajasthan",
+			"districtList": [{
+				"districtName": "Alwar",
+				"blockList": [{
+					"blockName": "Tijara ",
+					"panehayatList": [{
+							"panchayatName": "Tapukara",
+							"villageList": [{
+									"villageName": "Tapukara"
+								},
+								{
+									"villageName": "Ladamka"
+								},
+								{
+									"villageName": "Basai"
+								}
+							]
+						},
+						{
+							"panchayatName": "Salarpur",
+							"villageList": [{
+									"villageName": "Salarpur"
+								},
+								{
+									"villageName": "Shahpur"
+								},
+								{
+									"villageName": "Tatarpur"
+								},
+								{
+									"villageName": "Kalaka"
+								}
+							]
+						},
+						{
+							"panchayatName": "Maheshra",
+							"villageList": [{
+									"villageName": "Rabarka"
+								},
+								{
+									"villageName": "Burheda"
+								},
+								{
+									"villageName": "karampur"
+								},
+								{
+									"villageName": "Karoli"
+								},
+								{
+									"villageName": "Maheshra"
+								},
+								{
+									"villageName": "Khushkhera"
+								}
+							]
+						},
+						{
+							"panchayatName": "Jhivana",
+							"villageList": [{
+									"villageName": "Banban"
+								},
+								{
+									"villageName": "Jhivana"
+								},
+								{
+									"villageName": "Bibipur"
+								},
+								{
+									"villageName": "Banveerpur"
+								},
+								{
+									"villageName": "Ladiya"
+								}
+							]
+						},
+						{
+							"panchayatName": "Gvalda",
+							"villageList": [{
+									"villageName": "Gandhola"
+								},
+								{
+									"villageName": "Gvalda"
+								},
+								{
+									"villageName": "Nimbaheri"
+								}
+							]
+						},
+						{
+							"panchayatName": "Mayapur",
+							"villageList": [{
+									"villageName": "Chapar"
+								},
+								{
+									"villageName": "Daganheri"
+								},
+								{
+									"villageName": "Mayapur"
+								},
+								{
+									"villageName": "Nakhnol"
+								},
+								{
+									"villageName": "Khohrikalan"
+								},
+								{
+									"villageName": "Khohrikhurd"
+								},
+								{
+									"villageName": "Khativaas"
+								}
+							]
+						},
+						{
+							"panchayatName": "Maseet",
+							"villageList": [{
+									"villageName": "Dhiriyavaas"
+								},
+								{
+									"villageName": "Hasanpur"
+								},
+								{
+									"villageName": "Gailpur"
+								},
+								{
+									"villageName": "Mirchooni"
+								},
+								{
+									"villageName": "Musari"
+								},
+								{
+									"villageName": "Jhundpuri"
+								},
+								{
+									"villageName": "Budhi Bawal"
+								}
+							]
+						},
+						{
+							"panchayatName": "Budhibawal",
+							"villageList": [{
+								"villageName": "Karirivaas"
+							}]
+						},
+						{
+							"panchayatName": "Chuhadpur",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Jodiya",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Karenda",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Milakpur turk",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Khidarpur",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Rabhana",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Bichala",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Ishroda",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Hamiraka",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Palpur",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Luhadera",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Virampur",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Mundana",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Hindwaheda",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Shahbaad",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Raikheda",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Bhindusi",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Gahankar",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Gothda",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Chavandikalan",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Jaroli",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Fullavaas",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Hasanpurmafi",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Baghor",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Sarheta",
+							"villageList": [{
+								"villageName": ""
+							}]
+						},
+						{
+							"panchayatName": "Roopbaas",
+							"villageList": [{
+								"villageName": ""
+							}]
+						}
+					]
+				}]
+			}]
+		}
+	]
+}
